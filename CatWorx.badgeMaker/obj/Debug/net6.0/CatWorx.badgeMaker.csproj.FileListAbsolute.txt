@@ -1,0 +1,15 @@
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.exe
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.deps.json
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.runtimeconfig.json
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.dll
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\bin\Debug\net6.0\CatWorx.badgeMaker.pdb
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.csproj.AssemblyReference.cache
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.AssemblyInfoInputs.cache
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.AssemblyInfo.cs
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.dll
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\refint\CatWorx.badgeMaker.dll
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.pdb
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\CatWorx.badgeMaker.genruntimeconfig.cache
+C:\Users\wilme\secondchance\CSharp\CatWorx.badgeMaker\obj\Debug\net6.0\ref\CatWorx.badgeMaker.dll
